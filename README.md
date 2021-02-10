@@ -23,7 +23,7 @@ I was able to score 100% on each submission 😃 👌.
      
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/3/'> Week 3 Algorithms</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/3/'>Lab 3</a>
-     * [sort](/week03-Algorithms/Lab3/)
+     * [sort](/week03-Algorithms/lab3/)
    - [Problem Set3](/week03-Algorithms/pset3/) - <a href='https://cs50.harvard.edu/x/2021/psets/3/'> Assignments 3</a> 
      * [plurality](/week03-Algorithms/pset3/plurality/)
      * [runoff](/week03-Algorithms/pset3/runoff/)
