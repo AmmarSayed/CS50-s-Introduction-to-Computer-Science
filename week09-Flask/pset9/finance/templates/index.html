@@ -1,0 +1,47 @@
+{% extends "layout.html" %}
+
+{% block title %}
+portfolio
+{% endblock %}
+
+{% block main %}
+<h2>My Portfolio</h2>
+<hr>
+<table class="table table-striped table-hover ">
+    <thead>
+        <tr>
+            <th scope="col">Stock</th>
+            <th scope="col">Shares</th>
+            <th scope="col">Latest Price</th>
+            <th scope="col">Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in stocks %}
+        <tr>
+            <td>{{row["stock"]}}</td>
+            <td>{{row["shares"]}}</td>
+            <td>{{row["latest_price"]|usd}}</td>
+            <td>{{row["total"]|usd}}</td>
+        </tr>
+        {% endfor%}
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3"></td>
+            <td style="font-weight: bold;">Total Stock Cost</td>
+            <td style="font-weight: bold;">{{totalStocksBuyCost | usd}}</td>
+        </tr>
+        <tr>
+            <td colspan="3"></td>
+            <td style="font-weight: bold;" class="text-success">Available Cash</td>
+            <td style="font-weight: bold;" class="text-success">{{curntBalance | usd}}</td>
+        </tr>
+        <tr>
+            <td colspan="3"></td>
+            <td style="font-weight: bold;" class="text-primary">Total Wealth</td>
+            <td style="font-weight: bold;" class="text-primary">{{TotalWealth | usd}}</td>
+        </tr>
+    </tfoot>
+</table>
+{% endblock %}

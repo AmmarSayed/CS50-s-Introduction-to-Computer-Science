@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <title>Trivia!</title>
+
+    <script>
+        // TODO: Add code to check answers to questions
+        document.addEventListener('DOMContentLoaded', function () {
+            let AllButtons = document.querySelectorAll(".choice");
+            let myForm = document.querySelector("form");
+            let textInput = document.querySelector("#inputText");
+            let answerContainer = document.querySelector(".answerContainer")
+
+
+            function resetColor() {
+                AllButtons.forEach(b => {
+                    b.classList.remove("incorrectChoice", "correctChoice");
+                })
+            }
+
+
+            AllButtons.forEach(button => {
+                button.addEventListener("click", function () {
+                    resetColor()
+                    if (button.value != "Russia") {
+                        button.classList.add("incorrectChoice");
+                    } else {
+                        button.classList.add("correctChoice");
+                    }
+                })
+            })
+
+            myForm.addEventListener("submit", (e) => {
+                answerContainer.classList.remove("incorrect", "correct");
+                e.preventDefault();
+                if (textInput.value != "1914") {
+                    textInput.style.backgroundColor = "red";
+                    answerContainer.classList.add("incorrect")
+                } else {
+                    textInput.style.backgroundColor = "green";
+                    answerContainer.classList.add("correct")
+                }
+            })
+
+        });
+    </script>
+
+</head>
+
+<body>
+
+    <div class="jumbotron">
+        <h1>Trivia!</h1>
+    </div>
+
+    <div class="container">
+
+        <div class="section">
+            <h2>Part 1: Multiple Choice </h2>
+            <hr>
+
+            <!-- TODO: Add multiple choice question here -->
+            <h3>What is the largest country in the world? </h3>
+
+            <div class="choicesDiv">
+                <!-- Russia -->
+                <button class="choice">Russia</button>
+                <button class="choice">Canada</button>
+                <button class="choice">China</button>
+                <button class="choice">United States</button>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Part 2: Free Response</h2>
+            <hr>
+
+            <!-- TODO: Add free response question here -->
+            <h3>What year did World War I begin? </h3>
+            <!-- 1914  -->
+            <form>
+                <div class="answerContainer">
+                    <input id="inputText" type="text" placeholder="write your answer!" autocomplete="off">
+                </div>
+                <button type="submit">Check Answer</button>
+            </form>
+
+        </div>
+
+    </div>
+</body>
+
+</html>

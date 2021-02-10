@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Transactions
+{% endblock %}
+
+{% block main %}
+<h2>Transactions</h2>
+<hr>
+<table class="table table-striped table-hover ">
+    <thead>
+        <tr>
+            <th scope="col">Stock</th>
+            <th scope="col">Sahres</th>
+            <th scope="col">Buy/Sell</th>
+            <th scope="col">Price</th>
+            <th scope="col">Total</th>
+            <th scope="col">Last Transaction</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in stocks %}
+        <tr>
+            <td>{{row["stock"]}}</td>
+            <td>{{row["shares"]}}</td>
+            <td>{{row["buy_sell"]}}</td>
+            <td>&#36;{{row["price"]}}</td>
+            <td>&#36;{{row["total"]}}</td>
+            <td>{{row["trans_date"]}}</td>
+        </tr>
+        {% endfor%}
+    </tbody>
+</table>
+{% endblock %}
