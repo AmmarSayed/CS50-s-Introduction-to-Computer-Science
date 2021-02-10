@@ -4,66 +4,78 @@ I was able to score 100% on each submission 😃 👌.
 
 
 ## Contents
-* Week 1 C:
-   - Lab 1 - <a href='https://cs50.harvard.edu/x/2021/labs/1/'>Lab1</a>
-     * [hello](/C/lab1/hello)
-     * [population](/C/lab1/population)
-   - [Problem Set 1](/C/pset1) - <a href='https://cs50.harvard.edu/x/2021/psets/1/'> Assignments 1</a>
-     * mario
-       + [less](/C/pset1/mario/less)
-      * [cash](/C/pset1/cash)
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/1/'>Week 1 C</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/1/'>Lab 1</a>
+     * [hello](/week01-C/lab1/hello/)
+     * [population](/week01-C/lab1/population/)
+   - [Problem Set 1](/week01-C/pset1/) - <a href='https://cs50.harvard.edu/x/2021/psets/1/'> Assignments 1</a>
+     * [mario - less](/week01-C/pset1/mario/)
+     * [cash](/week01-C/pset1/cash/)
 
 
-* Week 2 Arrays:
-   - Lab 2 - <a href='https://cs50.harvard.edu/x/2021/labs/2/'>Lab1</a>
-      * [scrabble](/C/lab2/scrabble)
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/2/'> Week 2 Arrays </a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/2/'>Lab 3</a>
+     * [scrabble](/week02-Arrays/lab2/)
    - [Problem Set 2](/C/pset2) - <a href='https://cs50.harvard.edu/x/2021/psets/2/'> Assignments 2</a> 
-     * [caesar](/C/pset2/caesar)
-     * [readability](/C/pset2/readability)
+     * [caesar](/week02-Arrays/pset2/caesar/)
+     * [readability](/week02-Arrays/pset2/readability/)
      
      
-* Week 3 Algorithms:
-   - [Problem Set3](/C/pset3) - <a href='https://cs50.harvard.edu/x/2021/psets/3/'> Assignments 3</a> 
-     * [plurality](/C/pset3/plurality)
-     * [runoff](/C/pset3/runoff)
-     * [tideman](/C/pset3/tideman)
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/3/'> Week 3 Algorithms</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/3/'>Lab 3</a>
+     * [sort](/week03-Algorithms/Lab3/)
+   - [Problem Set3](/week03-Algorithms/pset3/) - <a href='https://cs50.harvard.edu/x/2021/psets/3/'> Assignments 3</a> 
+     * [plurality](/week03-Algorithms/pset3/plurality/)
+     * [runoff](/week03-Algorithms/pset3/runoff/)
+   
+
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/4/'> Week 4 Memory</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/3/'>Lab 4</a>
+      * [volume](/week04-Memory/Lab4/)
+   - [Problem Set 4](/week04-Memory/pset4/) - <a href='https://cs50.harvard.edu/x/2021/psets/4/'> Assignments 4</a> 
+     * [filter - less](/week04-Memory/pset4/filter)
+     * [recover](/week04-Memory/pset4/recover)
 
 
-* Week 4 Memory:
-   - [Problem Set 4](/C/pset4) - <a href='https://cs50.harvard.edu/x/2021/psets/4/'> Assignments 4</a> 
-     * filter
-       + [less](/C/pset4/filter)
-       + [more](/C/pset4/border-detection)
-     * [recover](/C/pset4/recover)
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/5/'>Week 5 Data Structure</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/5/'>Lab 5</a>
+      * [Inheritance](/week05-DataStructure/Lab5/)
+   - [Problem Set 5:](/week05-DataStructure/pset5/) - <a href='https://cs50.harvard.edu/x/2021/psets/5/speller/'> Speller assignment</a>
+     * [speller](/week05-DataStructure/pset5/speller/)
 
 
-* Week 5 Memory Data Structure:
-   - [Problem Set 5: ](/C/pset5/speller) - <a href='https://cs50.harvard.edu/x/2021/psets/5/speller/'> Speller assignment</a>
-     * [dictionary.c](/C/pset5/speller/dictionary.c)
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/6/'>Week 6 Python</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/6/'>Lab 6</a>
+      * [Inheritance](/week06-Python/Lab6/)
+   - [Problem Set 6:](/week06-Python/pset6/) - <a href='https://cs50.harvard.edu/x/2021/psets/6/'> Assignments 6</a>
+     * [hello](/week06-Python/pset6/hello/)
+     * [mario - less](/week06-Python/pset6/mario/)
+     * [cash](/week06-Python/pset6/cash/)
+     * [credit](/week06-Python/pset6/credit/)
+     * [readability](/week06-Python/pset6/readability/)
+     * [dna](/week06-Python/pset6/dna/)
 
 
-* Week 6 Python:
-   - [Problem Set 6:](/Python/pset6/) - <a href='https://cs50.harvard.edu/x/2021/psets/6/'> Assignments 6</a>
-     * [hello](/Python/pset6/hello)
-     * mario
-       + [less](/Python/pset6/mario/less)
-       + [more](/Python/pset6/mario/more)
-     * [cash](/Python/pset6/cash)
-     * [credit](/Python/pset6/credit)
-     * [readability](/Python/pset6/readability)
-     * [dna](/Python/pset6/dna)
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/7/'>Week 7 SQL</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/7/'>Lab 7</a>
+     * [Songs](/week07-SQL/Lab7/)
+   - [Problem Set 7:](/week07-SQL/pset7/) - <a href='https://cs50.harvard.edu/x/2021/psets/7/'> Assignments 7</a>
+     * [movies](/week07-SQL/pset7/movies/)
+     * [fiftyville](/week07-SQL/pset7/fiftyville/)
 
 
-* Week 6 SQL:
-   - [Problem Set 7:](/Python/pset7/) - <a href='https://cs50.harvard.edu/x/2021/psets/7/'> Assignments 7</a>
-     * [movies](/Python/pset7/movies)
-     * [houses](/Python/pset7/houses/houses)
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/8/'>Week 8 HTML, CSS, JavaScript</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/8/'>Lab 8</a>
+     * [songs](/week08-Web/Lab8/)
+   - [Problem Set 8:](/week08-Web/pset8/) - <a href='https://cs50.harvard.edu/x/2021/psets/8/'> Web Tracks</a>
+     * [homepage](/week08-Web/pset8/homepage/)
 
 
-* Week 6 HTML, CSS, JavaScript:
-   - [Problem Set 8:](/Python/finance) - <a href='https://cs50.harvard.edu/x/2021/psets/8/'> Web Tracks</a>
-     * [finance](/Python/finance)
-
+* <a href= 'https://cs50.harvard.edu/x/2021/weeks/9/'>Week 9 Flask</a>:
+   - <a href='https://cs50.harvard.edu/x/2021/labs/9/'>Lab 9</a>
+     * [songs](/week09-Flask/Lab9)
+   - [Problem Set 8:](/week09-Flask/pset9/) - <a href='https://cs50.harvard.edu/x/2021/psets/9/'> Web Tracks</a>
+     * [finance](/week09-Flask/pset9/finance/)
 
 
  - [Final Project: Lispy] TBD
