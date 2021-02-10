@@ -51,7 +51,6 @@ I was able to score 100% on each submission 😃 👌.
      * [hello](/week06-Python/pset6/hello/)
      * [mario - less](/week06-Python/pset6/mario/)
      * [cash](/week06-Python/pset6/cash/)
-     * [credit](/week06-Python/pset6/credit/)
      * [readability](/week06-Python/pset6/readability/)
      * [dna](/week06-Python/pset6/dna/)
 
