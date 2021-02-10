@@ -1,0 +1,15 @@
+pseudocode
+
+Open memory card
+Repeate until end of card:
+    Read 512 bytes into a buffer
+    If start of new JPEG
+    close the current picture
+        If first JPEG
+        ...
+        Else
+        ...
+    Else
+        If already found JPEG
+        ... Keep writing the next 512 blocks
+    Close any remaining files
