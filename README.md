@@ -16,7 +16,7 @@ I was able to score 100% on each submission 😃 👌.
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/2/'> Week 2 Arrays </a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/2/'>Lab 3</a>
      * [scrabble](/week02-Arrays/lab2/)
-   - [Problem Set 2](/C/pset2) - <a href='https://cs50.harvard.edu/x/2021/psets/2/'> Assignments 2</a> 
+   - [Problem Set 2](/week02-Arrays/pset2) - <a href='https://cs50.harvard.edu/x/2021/psets/2/'> Assignments 2</a> 
      * [caesar](/week02-Arrays/pset2/caesar/)
      * [readability](/week02-Arrays/pset2/readability/)
      
