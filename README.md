@@ -6,8 +6,8 @@ I was able to score 100% on each submission 😃 👌.
 ## Contents
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/1/'>Week 1 C</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/1/'>Lab 1</a>
-     * [hello](/week01-C/lab1/hello/)
-     * [population](/week01-C/lab1/population/)
+     * [hello](/week01-C/lab1/)
+     * [population](/week01-C/lab1/)
    - [Problem Set 1](/week01-C/pset1/) - <a href='https://cs50.harvard.edu/x/2021/psets/1/'> Assignments 1</a>
      * [mario - less](/week01-C/pset1/mario/)
      * [cash](/week01-C/pset1/cash/)
