@@ -31,7 +31,7 @@ I was able to score 100% on each submission 😃 👌.
 
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/4/'> Week 4 Memory</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/3/'>Lab 4</a>
-      * [volume](/week04-Memory/Lab4/)
+      * [volume](/week04-Memory/lab4/)
    - [Problem Set 4](/week04-Memory/pset4/) - <a href='https://cs50.harvard.edu/x/2021/psets/4/'> Assignments 4</a> 
      * [filter - less](/week04-Memory/pset4/filter)
      * [recover](/week04-Memory/pset4/recover)
@@ -46,7 +46,7 @@ I was able to score 100% on each submission 😃 👌.
 
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/6/'>Week 6 Python</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/6/'>Lab 6</a>
-      * [Inheritance](/week06-Python/Lab6/)
+      * [Inheritance](/week06-Python/lab6/)
    - [Problem Set 6:](/week06-Python/pset6/) - <a href='https://cs50.harvard.edu/x/2021/psets/6/'> Assignments 6</a>
      * [hello](/week06-Python/pset6/hello/)
      * [mario - less](/week06-Python/pset6/mario/)
@@ -58,7 +58,7 @@ I was able to score 100% on each submission 😃 👌.
 
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/7/'>Week 7 SQL</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/7/'>Lab 7</a>
-     * [Songs](/week07-SQL/Lab7/)
+     * [Songs](/week07-SQL/lab7/)
    - [Problem Set 7:](/week07-SQL/pset7/) - <a href='https://cs50.harvard.edu/x/2021/psets/7/'> Assignments 7</a>
      * [movies](/week07-SQL/pset7/movies/)
      * [fiftyville](/week07-SQL/pset7/fiftyville/)
@@ -66,14 +66,14 @@ I was able to score 100% on each submission 😃 👌.
 
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/8/'>Week 8 HTML, CSS, JavaScript</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/8/'>Lab 8</a>
-     * [songs](/week08-Web/Lab8/)
+     * [songs](/week08-Web/lab8/)
    - [Problem Set 8:](/week08-Web/pset8/) - <a href='https://cs50.harvard.edu/x/2021/psets/8/'> Web Tracks</a>
      * [homepage](/week08-Web/pset8/homepage/)
 
 
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/9/'>Week 9 Flask</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/9/'>Lab 9</a>
-     * [birthdays](/week09-Flask/Lab9)
+     * [birthdays](/week09-Flask/lab9)
    - [Problem Set 8:](/week09-Flask/pset9/) - <a href='https://cs50.harvard.edu/x/2021/psets/9/'> Web Tracks</a>
      * [finance](/week09-Flask/pset9/finance/)
 
