@@ -73,7 +73,7 @@ I was able to score 100% on each submission 😃 👌.
 
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/9/'>Week 9 Flask</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/9/'>Lab 9</a>
-     * [songs](/week09-Flask/Lab9)
+     * [birthdays](/week09-Flask/Lab9)
    - [Problem Set 8:](/week09-Flask/pset9/) - <a href='https://cs50.harvard.edu/x/2021/psets/9/'> Web Tracks</a>
      * [finance](/week09-Flask/pset9/finance/)
 
