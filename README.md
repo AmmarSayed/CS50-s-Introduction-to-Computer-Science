@@ -39,7 +39,7 @@ I was able to score 100% on each submission 😃 👌.
 
 * <a href= 'https://cs50.harvard.edu/x/2021/weeks/5/'>Week 5 Data Structure</a>:
    - <a href='https://cs50.harvard.edu/x/2021/labs/5/'>Lab 5</a>
-      * [Inheritance](/week05-DataStructure/Lab5/)
+      * [Inheritance](/week05-DataStructure/lab5/)
    - [Problem Set 5:](/week05-DataStructure/pset5/) - <a href='https://cs50.harvard.edu/x/2021/psets/5/speller/'> Speller assignment</a>
      * [speller](/week05-DataStructure/pset5/speller/)
 
