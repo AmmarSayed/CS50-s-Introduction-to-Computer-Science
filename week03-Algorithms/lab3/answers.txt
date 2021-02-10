@@ -1,0 +1,26 @@
+sort1 uses: Bubble sort
+
+How do you know?: it's longer than Merge sort and the time consumed for the sorted list is less than (sort3 - Selection sort)
+#reversed order time:
+real    0m0.055s
+
+#sorted order time:
+real    0m0.011s
+
+sort2 uses: Merge sort
+
+How do you know?: it has the shortest run time among other sorts
+#reversed order time:
+real    0m0.010s
+
+#sorted order time:
+real    0m0.011s
+
+sort3 uses: Selection sort
+
+How do you know?: It's consumed more time for both sorted and unsorted files
+#reversed order time:
+real    0m0.033s
+
+#sorted order time:
+real    0m0.033s
