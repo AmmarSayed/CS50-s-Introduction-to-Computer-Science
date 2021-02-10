@@ -83,3 +83,7 @@ I was able to score 100% on each submission 😃 👌.
    
 ### Final Certificate!
 ![Final Certificate] TBD
+
+
+### DISCLAIMER:
+Please don't just copy the code mindlessly without trying to solve the problems yourself, it's totally pointless if you actually wanna learn how to write software and a blatant violation of the [**Academic Honesty**](https://docs.cs50.net/2016/fall/syllabus/cs50.html#academic-honesty) policy of the course.
